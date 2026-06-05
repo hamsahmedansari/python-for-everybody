@@ -1,0 +1,17 @@
+{
+  "tab.enabled": false,
+  "cursor.completions.enabled": false,
+  "cursor.cpp.disabledLanguages": ["python"],
+  "editor.inlineSuggestions": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+  "github.copilot.nextEditSuggestions.enabled": false,
+  "github.copilot.inlineSuggest.enable": false,
+  "editor.quickSuggestions": {
+    "other": "on",
+    "comments": "off",
+    "strings": "on"
+  },
+  "editor.suggestOnTriggerCharacters": true
+}
